@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 cv.Rproj
+*.out
 *.aux
 *.log
 *.synctex.gz
