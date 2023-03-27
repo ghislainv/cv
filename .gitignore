@@ -3,5 +3,6 @@
 .RData
 .Ruserdata
 cv.Rproj
-cv_ghislain_vieilledent.log
-cv_ghislain_vieilledent.synctex.gz
+*.aux
+*.log
+*.synctex.gz
